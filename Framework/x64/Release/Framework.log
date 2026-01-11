@@ -1,0 +1,1124 @@
+﻿  imgui.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,9): warning C4005: 'DXGI_STATUS_OCCLUDED': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59255,9):
+      'DXGI_STATUS_OCCLUDED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,9): warning C4005: 'DXGI_STATUS_CLIPPED': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59264,9):
+      'DXGI_STATUS_CLIPPED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,9): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59273,9):
+      'DXGI_STATUS_NO_REDIRECTION' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,9): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59282,9):
+      'DXGI_STATUS_NO_DESKTOP_ACCESS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,9): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59291,9):
+      'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,9): warning C4005: 'DXGI_STATUS_MODE_CHANGED': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59300,9):
+      'DXGI_STATUS_MODE_CHANGED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,9): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59309,9):
+      'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,9): warning C4005: 'DXGI_ERROR_INVALID_CALL': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59324,9):
+      'DXGI_ERROR_INVALID_CALL' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,9): warning C4005: 'DXGI_ERROR_NOT_FOUND': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59333,9):
+      'DXGI_ERROR_NOT_FOUND' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,9): warning C4005: 'DXGI_ERROR_MORE_DATA': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59342,9):
+      'DXGI_ERROR_MORE_DATA' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,9): warning C4005: 'DXGI_ERROR_UNSUPPORTED': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59351,9):
+      'DXGI_ERROR_UNSUPPORTED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,9): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59360,9):
+      'DXGI_ERROR_DEVICE_REMOVED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,9): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59369,9):
+      'DXGI_ERROR_DEVICE_HUNG' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,9): warning C4005: 'DXGI_ERROR_DEVICE_RESET': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59379,9):
+      'DXGI_ERROR_DEVICE_RESET' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,9): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59388,9):
+      'DXGI_ERROR_WAS_STILL_DRAWING' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,9): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59398,9):
+      'DXGI_ERROR_FRAME_STATISTICS_DISJOINT' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,9): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59407,9):
+      'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,9): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59417,9):
+      'DXGI_ERROR_DRIVER_INTERNAL_ERROR' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,9): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59426,9):
+      'DXGI_ERROR_NONEXCLUSIVE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,9): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59435,9):
+      'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,9): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59445,9):
+      'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,9): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59454,9):
+      'DXGI_ERROR_REMOTE_OUTOFMEMORY' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59769,9):
+      'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,9): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59778,9):
+      'D3D11_ERROR_FILE_NOT_FOUND' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59788,9):
+      'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,9): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59797,9):
+      'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,9): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59745,9):
+      'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,9): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59754,9):
+      'D3D10_ERROR_FILE_NOT_FOUND' の以前の定義を確認してください
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(77,104): warning C4042: 'buf': 指定されたストレージ クラスは、このコンテキストでは使えません。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(95,35): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(97,42): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(97,35): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(97,28): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(98,35): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(98,25): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(99,39): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(99,31): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(99,23): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'ext/ImGui/imgui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui.cpp(3361,65): warning C4100: 'rounding': 参照されないパラメーター
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui.cpp(3361,52): warning C4100: 'p_max': 参照されないパラメーター
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui.cpp(3361,38): warning C4100: 'p_min': 参照されないパラメーター
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui.cpp(3364,18): warning C4189: 'window': ローカル変数が初期化されましたが、参照されていません
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui.cpp(13157,10): warning C4459: 'hwnd' を宣言すると、グローバル宣言が隠蔽されます
+      C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(17,13):
+      'hwnd' の宣言を確認してください
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui.cpp(5934,13): warning C4505: 'ImGui::RenderWindowShadow': 内部リンケージ含む参照されていない関数が削除されました
+  imgui_draw.cpp
+  imgui_freetype.cpp
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui_freetype.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  imgui_impl_dx11.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,9): warning C4005: 'DXGI_STATUS_OCCLUDED': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59255,9):
+      'DXGI_STATUS_OCCLUDED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,9): warning C4005: 'DXGI_STATUS_CLIPPED': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59264,9):
+      'DXGI_STATUS_CLIPPED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,9): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59273,9):
+      'DXGI_STATUS_NO_REDIRECTION' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,9): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59282,9):
+      'DXGI_STATUS_NO_DESKTOP_ACCESS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,9): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59291,9):
+      'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,9): warning C4005: 'DXGI_STATUS_MODE_CHANGED': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59300,9):
+      'DXGI_STATUS_MODE_CHANGED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,9): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59309,9):
+      'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,9): warning C4005: 'DXGI_ERROR_INVALID_CALL': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59324,9):
+      'DXGI_ERROR_INVALID_CALL' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,9): warning C4005: 'DXGI_ERROR_NOT_FOUND': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59333,9):
+      'DXGI_ERROR_NOT_FOUND' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,9): warning C4005: 'DXGI_ERROR_MORE_DATA': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59342,9):
+      'DXGI_ERROR_MORE_DATA' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,9): warning C4005: 'DXGI_ERROR_UNSUPPORTED': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59351,9):
+      'DXGI_ERROR_UNSUPPORTED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,9): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59360,9):
+      'DXGI_ERROR_DEVICE_REMOVED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,9): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59369,9):
+      'DXGI_ERROR_DEVICE_HUNG' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,9): warning C4005: 'DXGI_ERROR_DEVICE_RESET': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59379,9):
+      'DXGI_ERROR_DEVICE_RESET' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,9): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59388,9):
+      'DXGI_ERROR_WAS_STILL_DRAWING' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,9): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59398,9):
+      'DXGI_ERROR_FRAME_STATISTICS_DISJOINT' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,9): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59407,9):
+      'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,9): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59417,9):
+      'DXGI_ERROR_DRIVER_INTERNAL_ERROR' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,9): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59426,9):
+      'DXGI_ERROR_NONEXCLUSIVE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,9): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59435,9):
+      'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,9): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59445,9):
+      'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,9): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59454,9):
+      'DXGI_ERROR_REMOTE_OUTOFMEMORY' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59769,9):
+      'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,9): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59778,9):
+      'D3D11_ERROR_FILE_NOT_FOUND' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59788,9):
+      'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,9): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59797,9):
+      'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,9): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59745,9):
+      'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,9): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_impl_dx11.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59754,9):
+      'D3D10_ERROR_FILE_NOT_FOUND' の以前の定義を確認してください
+  
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,9): warning C4005: 'DXGI_STATUS_OCCLUDED': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59255,9):
+      'DXGI_STATUS_OCCLUDED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,9): warning C4005: 'DXGI_STATUS_CLIPPED': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59264,9):
+      'DXGI_STATUS_CLIPPED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,9): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59273,9):
+      'DXGI_STATUS_NO_REDIRECTION' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,9): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59282,9):
+      'DXGI_STATUS_NO_DESKTOP_ACCESS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,9): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59291,9):
+      'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,9): warning C4005: 'DXGI_STATUS_MODE_CHANGED': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59300,9):
+      'DXGI_STATUS_MODE_CHANGED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,9): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59309,9):
+      'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,9): warning C4005: 'DXGI_ERROR_INVALID_CALL': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59324,9):
+      'DXGI_ERROR_INVALID_CALL' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,9): warning C4005: 'DXGI_ERROR_NOT_FOUND': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59333,9):
+      'DXGI_ERROR_NOT_FOUND' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,9): warning C4005: 'DXGI_ERROR_MORE_DATA': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59342,9):
+      'DXGI_ERROR_MORE_DATA' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,9): warning C4005: 'DXGI_ERROR_UNSUPPORTED': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59351,9):
+      'DXGI_ERROR_UNSUPPORTED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,9): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59360,9):
+      'DXGI_ERROR_DEVICE_REMOVED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,9): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59369,9):
+      'DXGI_ERROR_DEVICE_HUNG' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,9): warning C4005: 'DXGI_ERROR_DEVICE_RESET': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59379,9):
+      'DXGI_ERROR_DEVICE_RESET' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,9): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59388,9):
+      'DXGI_ERROR_WAS_STILL_DRAWING' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,9): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59398,9):
+      'DXGI_ERROR_FRAME_STATISTICS_DISJOINT' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,9): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59407,9):
+      'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,9): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59417,9):
+      'DXGI_ERROR_DRIVER_INTERNAL_ERROR' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,9): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59426,9):
+      'DXGI_ERROR_NONEXCLUSIVE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,9): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59435,9):
+      'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,9): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59445,9):
+      'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,9): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59454,9):
+      'DXGI_ERROR_REMOTE_OUTOFMEMORY' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59769,9):
+      'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,9): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59778,9):
+      'D3D11_ERROR_FILE_NOT_FOUND' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59788,9):
+      'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,9): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59797,9):
+      'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,9): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59745,9):
+      'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,9): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': マクロが再定義されました。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59754,9):
+      'D3D10_ERROR_FILE_NOT_FOUND' の以前の定義を確認してください
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(77,104): warning C4042: 'buf': 指定されたストレージ クラスは、このコンテキストでは使えません。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(95,35): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(97,42): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(97,35): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(97,28): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(98,35): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(98,25): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(99,39): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(99,31): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(99,23): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'ext/ImGui/imgui_widgets.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui_widgets.cpp(766,172): warning C4244: '引数': 'float' から 'ImDrawFlags' への変換です。データが失われる可能性があります。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui_widgets.cpp(754,19): warning C4189: 'id': ローカル変数が初期化されましたが、参照されていません
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui_widgets.cpp(973,151): warning C4100: 'flags': 参照されないパラメーター
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui_widgets.cpp(1058,17): warning C4189: 'bg_col': ローカル変数が初期化されましたが、参照されていません
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui_widgets.cpp(1180,13): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui_widgets.cpp(1180,27): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui_widgets.cpp(1194,19): warning C4189: 'g': ローカル変数が初期化されましたが、参照されていません
+  framework.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,9): warning C4005: 'DXGI_STATUS_OCCLUDED': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59255,9):
+      'DXGI_STATUS_OCCLUDED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,9): warning C4005: 'DXGI_STATUS_CLIPPED': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59264,9):
+      'DXGI_STATUS_CLIPPED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,9): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59273,9):
+      'DXGI_STATUS_NO_REDIRECTION' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,9): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59282,9):
+      'DXGI_STATUS_NO_DESKTOP_ACCESS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,9): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59291,9):
+      'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,9): warning C4005: 'DXGI_STATUS_MODE_CHANGED': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59300,9):
+      'DXGI_STATUS_MODE_CHANGED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,9): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59309,9):
+      'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,9): warning C4005: 'DXGI_ERROR_INVALID_CALL': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59324,9):
+      'DXGI_ERROR_INVALID_CALL' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,9): warning C4005: 'DXGI_ERROR_NOT_FOUND': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59333,9):
+      'DXGI_ERROR_NOT_FOUND' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,9): warning C4005: 'DXGI_ERROR_MORE_DATA': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59342,9):
+      'DXGI_ERROR_MORE_DATA' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,9): warning C4005: 'DXGI_ERROR_UNSUPPORTED': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59351,9):
+      'DXGI_ERROR_UNSUPPORTED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,9): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59360,9):
+      'DXGI_ERROR_DEVICE_REMOVED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,9): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59369,9):
+      'DXGI_ERROR_DEVICE_HUNG' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,9): warning C4005: 'DXGI_ERROR_DEVICE_RESET': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59379,9):
+      'DXGI_ERROR_DEVICE_RESET' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,9): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59388,9):
+      'DXGI_ERROR_WAS_STILL_DRAWING' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,9): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59398,9):
+      'DXGI_ERROR_FRAME_STATISTICS_DISJOINT' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,9): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59407,9):
+      'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,9): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59417,9):
+      'DXGI_ERROR_DRIVER_INTERNAL_ERROR' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,9): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59426,9):
+      'DXGI_ERROR_NONEXCLUSIVE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,9): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59435,9):
+      'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,9): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59445,9):
+      'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,9): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59454,9):
+      'DXGI_ERROR_REMOTE_OUTOFMEMORY' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59769,9):
+      'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,9): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59778,9):
+      'D3D11_ERROR_FILE_NOT_FOUND' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59788,9):
+      'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,9): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59797,9):
+      'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,9): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59745,9):
+      'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,9): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59754,9):
+      'D3D10_ERROR_FILE_NOT_FOUND' の以前の定義を確認してください
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(77,104): warning C4042: 'buf': 指定されたストレージ クラスは、このコンテキストでは使えません。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(95,35): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(97,42): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(97,35): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(97,28): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(98,35): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(98,25): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(99,39): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(99,31): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(99,23): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/framework.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\framework.cpp(61,32): warning C4459: 'hwnd' を宣言すると、グローバル宣言が隠蔽されます
+      C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(17,13):
+      'hwnd' の宣言を確認してください
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\framework.cpp(96,127): warning C4244: '引数': 'const float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\framework.cpp(96,107): warning C4244: '引数': 'const float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\framework.cpp(96,64): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\framework.cpp(96,30): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\framework.cpp(138,37): warning C4100: 'i': 参照されないパラメーター
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\framework.cpp(210,78): warning C4100: 'icon': 参照されないパラメーター
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\framework.cpp(283,99): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\framework.cpp(283,94): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\framework.cpp(283,89): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\framework.cpp(283,133): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\framework.cpp(283,128): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\framework.cpp(283,123): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\framework.cpp(283,118): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\framework.cpp(258,20): warning C4101: 'gui': ローカル変数は 1 度も使われていません。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\framework.cpp(372,121): warning C4042: 'buf': 指定されたストレージ クラスは、このコンテキストでは使えません。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\framework.cpp(431,17): warning C4189: 'style': ローカル変数が初期化されましたが、参照されていません
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\framework.cpp(500,10): warning C4189: 'cfont': ローカル変数が初期化されましたが、参照されていません
+  main.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,9): warning C4005: 'DXGI_STATUS_OCCLUDED': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59255,9):
+      'DXGI_STATUS_OCCLUDED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,9): warning C4005: 'DXGI_STATUS_CLIPPED': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59264,9):
+      'DXGI_STATUS_CLIPPED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,9): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59273,9):
+      'DXGI_STATUS_NO_REDIRECTION' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,9): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59282,9):
+      'DXGI_STATUS_NO_DESKTOP_ACCESS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,9): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59291,9):
+      'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,9): warning C4005: 'DXGI_STATUS_MODE_CHANGED': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59300,9):
+      'DXGI_STATUS_MODE_CHANGED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,9): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59309,9):
+      'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,9): warning C4005: 'DXGI_ERROR_INVALID_CALL': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59324,9):
+      'DXGI_ERROR_INVALID_CALL' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,9): warning C4005: 'DXGI_ERROR_NOT_FOUND': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59333,9):
+      'DXGI_ERROR_NOT_FOUND' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,9): warning C4005: 'DXGI_ERROR_MORE_DATA': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59342,9):
+      'DXGI_ERROR_MORE_DATA' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,9): warning C4005: 'DXGI_ERROR_UNSUPPORTED': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59351,9):
+      'DXGI_ERROR_UNSUPPORTED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,9): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59360,9):
+      'DXGI_ERROR_DEVICE_REMOVED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,9): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59369,9):
+      'DXGI_ERROR_DEVICE_HUNG' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,9): warning C4005: 'DXGI_ERROR_DEVICE_RESET': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59379,9):
+      'DXGI_ERROR_DEVICE_RESET' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,9): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59388,9):
+      'DXGI_ERROR_WAS_STILL_DRAWING' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,9): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59398,9):
+      'DXGI_ERROR_FRAME_STATISTICS_DISJOINT' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,9): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59407,9):
+      'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,9): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59417,9):
+      'DXGI_ERROR_DRIVER_INTERNAL_ERROR' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,9): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59426,9):
+      'DXGI_ERROR_NONEXCLUSIVE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,9): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59435,9):
+      'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,9): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59445,9):
+      'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,9): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59454,9):
+      'DXGI_ERROR_REMOTE_OUTOFMEMORY' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59769,9):
+      'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,9): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59778,9):
+      'D3D11_ERROR_FILE_NOT_FOUND' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59788,9):
+      'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,9): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59797,9):
+      'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,9): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59745,9):
+      'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,9): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59754,9):
+      'D3D10_ERROR_FILE_NOT_FOUND' の以前の定義を確認してください
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(77,104): warning C4042: 'buf': 指定されたストレージ クラスは、このコンテキストでは使えません。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(95,35): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(97,42): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(97,35): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(97,28): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(98,35): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(98,25): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(99,39): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(99,31): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(99,23): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\main.cpp(23,240): warning C4244: '引数': 'const float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\main.cpp(23,220): warning C4244: '引数': 'const float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\main.cpp(23,176): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\main.cpp(23,112): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\main.cpp(19,87): warning C4100: 'nShowCmd': 参照されないパラメーター
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\main.cpp(19,72): warning C4100: 'lpCmdLine': 参照されないパラメーター
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\main.cpp(19,51): warning C4100: 'hPrevInstance': 参照されないパラメーター
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\main.cpp(31,11): warning C4101: 'mouse': ローカル変数は 1 度も使われていません。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui.h(1795,40): warning C4459: 'i' を宣言すると、グローバル宣言が隠蔽されます
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\main.cpp(16,13):
+      'i' の宣言を確認してください
+      C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui.h(1795,40):
+      テンプレートインスタンス化コンテキスト (最初に最も古いもの) は
+          C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui_internal.h(2596,41):
+          コンパイル対象の クラス テンプレート インスタンス化 'ImVector<ImGuiTableInstanceData>' のリファレンスを確認してください
+          C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui.h(1795,25):
+          クラス テンプレート メンバー関数 'T &ImVector<T>::operator [](int)' のコンパイル中
+          with
+          [
+              T=ImGuiTableInstanceData
+          ]
+              C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui_internal.h(3017,152):
+              'ImGui::TableGetInstanceData' の 'ImVector<ImGuiTableInstanceData>::operator []' への最初の参照を参照してください
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui.h(1796,40): warning C4459: 'i' を宣言すると、グローバル宣言が隠蔽されます
+  (ソース ファイル 'src/Sources/main.cpp' をコンパイルしています)
+      C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\main.cpp(16,13):
+      'i' の宣言を確認してください
+      C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui.h(1796,40):
+      テンプレートインスタンス化コンテキスト (最初に最も古いもの) は
+          C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui.h(2941,33):
+          コンパイル対象の クラス テンプレート インスタンス化 'ImVector<float>' のリファレンスを確認してください
+          C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui.h(1796,25):
+          クラス テンプレート メンバー関数 'const T &ImVector<T>::operator [](int) const' のコンパイル中
+          with
+          [
+              T=float
+          ]
+              C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\ext\ImGui\imgui.h(2970,71):
+              'ImFont::GetCharAdvance' の 'ImVector<float>::operator []' への最初の参照を参照してください
+  
+  ui.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,9): warning C4005: 'DXGI_STATUS_OCCLUDED': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59255,9):
+      'DXGI_STATUS_OCCLUDED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,9): warning C4005: 'DXGI_STATUS_CLIPPED': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59264,9):
+      'DXGI_STATUS_CLIPPED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,9): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59273,9):
+      'DXGI_STATUS_NO_REDIRECTION' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,9): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59282,9):
+      'DXGI_STATUS_NO_DESKTOP_ACCESS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,9): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59291,9):
+      'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,9): warning C4005: 'DXGI_STATUS_MODE_CHANGED': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59300,9):
+      'DXGI_STATUS_MODE_CHANGED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,9): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59309,9):
+      'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,9): warning C4005: 'DXGI_ERROR_INVALID_CALL': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59324,9):
+      'DXGI_ERROR_INVALID_CALL' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,9): warning C4005: 'DXGI_ERROR_NOT_FOUND': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59333,9):
+      'DXGI_ERROR_NOT_FOUND' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,9): warning C4005: 'DXGI_ERROR_MORE_DATA': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59342,9):
+      'DXGI_ERROR_MORE_DATA' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,9): warning C4005: 'DXGI_ERROR_UNSUPPORTED': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59351,9):
+      'DXGI_ERROR_UNSUPPORTED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,9): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59360,9):
+      'DXGI_ERROR_DEVICE_REMOVED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,9): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59369,9):
+      'DXGI_ERROR_DEVICE_HUNG' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,9): warning C4005: 'DXGI_ERROR_DEVICE_RESET': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59379,9):
+      'DXGI_ERROR_DEVICE_RESET' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,9): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59388,9):
+      'DXGI_ERROR_WAS_STILL_DRAWING' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,9): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59398,9):
+      'DXGI_ERROR_FRAME_STATISTICS_DISJOINT' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,9): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59407,9):
+      'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,9): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59417,9):
+      'DXGI_ERROR_DRIVER_INTERNAL_ERROR' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,9): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59426,9):
+      'DXGI_ERROR_NONEXCLUSIVE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,9): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59435,9):
+      'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,9): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59445,9):
+      'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,9): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59454,9):
+      'DXGI_ERROR_REMOTE_OUTOFMEMORY' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59769,9):
+      'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,9): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59778,9):
+      'D3D11_ERROR_FILE_NOT_FOUND' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59788,9):
+      'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,9): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59797,9):
+      'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,9): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59745,9):
+      'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' の以前の定義を確認してください
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,9): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': マクロが再定義されました。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59754,9):
+      'D3D10_ERROR_FILE_NOT_FOUND' の以前の定義を確認してください
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(77,104): warning C4042: 'buf': 指定されたストレージ クラスは、このコンテキストでは使えません。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(95,35): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(97,42): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(97,35): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(97,28): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(98,35): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(98,25): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(99,39): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(99,31): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\main.h(99,23): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\particles.h(22,57): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\particles.h(22,43): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Headers\particles.h(40,46): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'src/Sources/ui.cpp' をコンパイルしています)
+  
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\ui.cpp(60,25): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\ui.cpp(138,108): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\Framework\src\Sources\ui.cpp(140,26): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+LINK : warning LNK4098: defaultlib 'LIBCMT' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+  All 2247 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+freetype.lib(ftinit.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(ftinit.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(ftbase.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(ftbase.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(ftsynth.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(ftsynth.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(autofit.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(autofit.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(truetype.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(truetype.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(type1.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(type1.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(cff.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(cff.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(type1cid.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(type1cid.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(pfr.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(pfr.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(type42.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(type42.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(winfnt.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(winfnt.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(pcf.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(pcf.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(bdf.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(bdf.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(psaux.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(psaux.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(psmodule.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(psmodule.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(pshinter.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(pshinter.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(sfnt.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(sfnt.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(smooth.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(smooth.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(raster.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(raster.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(sdf.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(sdf.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(svg.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(svg.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(ftsystem.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(ftsystem.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(ftbitmap.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(ftbitmap.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(ftgzip.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(ftgzip.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(ftlzw.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(ftlzw.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+freetype.lib(ftdebug.obj) : warning LNK4099: PDB 'freetype.pdb' が 'freetype.lib(ftdebug.obj)' で、または 'C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\freetype.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  Framework.vcxproj -> C:\Users\laz\Downloads\best-imgui-free-loader-Flammed-master\best-imgui-free-loader-Flammed-master\x64\Release\Framework.exe
